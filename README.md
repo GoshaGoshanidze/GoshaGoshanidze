@@ -1,10 +1,13 @@
 <div id="Bones" align="center">
   <img src="https://github.com/GoshaGoshanidze/GoshaGoshanidze/blob/main/chel_2.png" width="280px">
 </div>
+
+---
+
 <div id="ConsoleText">
   <p>root@ubuntu: ~/home/user# cd SecretFolder</p>
   <p>root@ubuntu: ~/home/user/SecretFolder# ls -a</p>
-  <p>flag{GitHub_Name_2025}.txt</p>
+  <p>.flag{GitHub_Name_2025}.txt</p>
   <p>root@ubuntu: ~/home/user/SecretFolder# cat flag.txt</p>
 </div>  
 <div id="AsciiArt">
