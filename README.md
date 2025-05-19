@@ -1,5 +1,27 @@
-<div id="badges" align="center">
+<div id="Bones" align="center">
   <img src="https://github.com/GoshaGoshanidze/GoshaGoshanidze/blob/main/chel_2.png" width="280px">
+</div>
+<div id="ConsoleText">
+  <p>root@ubuntu: ~/home/user# cd SecretFolder</p>
+  <p>root@ubuntu: ~/home/user/SecretFolder# ls -a</p>
+  <p>flag{GitHub_Name_2025}.txt</p>
+  <p>root@ubuntu: ~/home/user/SecretFolder# cat flag.txt</p>
+</div>  
+<div id="AsciiArt">
+  <pre align="center">
+ /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\ 
+( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
+ > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
+ /\_/\       _____                 ____           /\_/\ 
+( o.o )     / ___/   ______ ______/ __ \____ _   ( o.o )
+ > ^ <      \__ \ | / / __ `/ ___/ / / / __ `/    > ^ < 
+ /\_/\     ___/ / |/ / /_/ / /  / /_/ / /_/ /     /\_/\ 
+( o.o )   /____/|___/\__,_/_/   \____/\__, /     ( o.o )
+ > ^ <                               /____/       > ^ < 
+ /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\ 
+( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
+ > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
+  </pre>
 </div>
 
 ---
