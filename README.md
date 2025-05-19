@@ -4,13 +4,11 @@
 
 ---
 
-<div id="ConsoleText">
-  <p>root@ubuntu: ~/home/user# cd SecretFolder && ls -a</p>
-  <p>.flag{GitHub_Name_2025}.txt</p>
-  <p>root@ubuntu: ~/home/user/SecretFolder# cat .flag{GitHub_Name_2025}.txt</p>
-</div>  
-<div id="AsciiArt">
-  <pre align="center">
+<div id="Console"> 
+  <pre id="ConsoleArt" align="">
+<p>root@ubuntu: ~/home/user# cd SecretFolder && ls -a
+.flag{GitHub_Name_2025}.txt
+root@ubuntu: ~/home/user/SecretFolder# cat .flag{GitHub_Name_2025}.txt</p>
  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\ 
 ( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
