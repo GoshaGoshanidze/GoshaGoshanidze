@@ -68,7 +68,7 @@
 ---
 
 <h3>🔗 Связаться со мной :</h3>
-  <a href="yourTelegramLink">
+  <a href="https://t.me/Svar0g0">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge">
   </a>
 
