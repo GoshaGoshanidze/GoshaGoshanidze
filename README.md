@@ -5,10 +5,9 @@
 ---
 
 <div id="ConsoleText">
-  <p>root@ubuntu: ~/home/user# cd SecretFolder</p>
-  <p>root@ubuntu: ~/home/user/SecretFolder# ls -a</p>
+  <p>root@ubuntu: ~/home/user# cd SecretFolder && ls -a</p>
   <p>.flag{GitHub_Name_2025}.txt</p>
-  <p>root@ubuntu: ~/home/user/SecretFolder# cat flag.txt</p>
+  <p>root@ubuntu: ~/home/user/SecretFolder# cat .flag{GitHub_Name_2025}.txt</p>
 </div>  
 <div id="AsciiArt">
   <pre align="center">
